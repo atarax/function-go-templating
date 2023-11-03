@@ -6,7 +6,7 @@ import (
 
 	"github.com/crossplane/function-sdk-go/errors"
 
-	"github.com/crossplane-contrib/function-go-templating/input/v1beta1"
+	"github.com/upbound/function-go-templating/input/v1beta1"
 )
 
 const dotCharacter = 46

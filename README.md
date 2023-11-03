@@ -1,5 +1,11 @@
 # function-go-templating
-[![CI](https://github.com/crossplane-contrib/function-go-templating/actions/workflows/ci.yml/badge.svg)](https://github.com/crossplane-contrib/function-go-templating/actions/workflows/ci.yml) ![GitHub release (latest SemVer)](https://img.shields.io/github/release/crossplane-contrib/function-go-templating)
+[![CI](https://github.com/upbound/function-go-templating/actions/workflows/ci.yml/badge.svg)](https://github.com/upbound/function-go-templating/actions/workflows/ci.yml) ![GitHub release (latest SemVer)](https://img.shields.io/github/release/upbound/function-go-templating)
+
+> This Upbound Official composition function is a lightweight fork of the
+> [upstream Crossplane function][contrib-function]. Most issues and pull
+> requests should be opened against the upstream function.
+
+[contrib-function]: https://github.com/crossplane-contrib/function-go-templating
 
 This [composition function][docs-functions] allows you to compose Crossplane
 resources using [Go templates][go-templates]. If you've written a [Helm
