@@ -16,7 +16,7 @@ import (
 	"github.com/crossplane/function-sdk-go/resource"
 	"github.com/crossplane/function-sdk-go/response"
 
-	"github.com/crossplane-contrib/function-go-templating/input/v1beta1"
+	"github.com/upbound/function-go-templating/input/v1beta1"
 )
 
 var (
